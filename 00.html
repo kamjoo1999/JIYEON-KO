@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+  <title>Title</title>
+  <script>
+    $(document).ready(function (){
+     $('li').odd().css('background','blue').css('color', 'red');
+     $('li').even().css('background','yellow').css('color','green');
+    })
+  </script>
+</head>
+<body>
+  <ul id="myList">
+    <li>내용1</li>
+    <li>내용2</li>
+    <li>내용3</li>
+    <li>내용4</li>
+    <li>내용5</li>
+  </ul>
+
+</body>
+</html>

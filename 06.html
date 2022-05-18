@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+  <title>Title</title>
+</head>
+<style>
+  hr{
+    width : 400px;
+    margin-left: 10px;
+    border : 1px solid chocolate;
+  }
+</style>
+<script>
+  $(document).ready(function (){
+      let arr_item = [];
+      $('ul').css('list-style','none')
+      let result = "";
+      let num = 0;
+      while(true){
+          arr_item = prompt("주문품목과 개수를 입력하세요.\n 종료하려면 종료를 입력하세요.").split(" ");
+          if(arr_item == '종료') {
+              break;
+          }
+          else{
+              $.each(arr_item, function (){
+                  result += `<li>픔목 : ${arr_item[0]}  구입개수 : ${arr_item[1]}</li>`;
+                  num += Number(arr_item[1]);
+                  return false;
+              })
+          }
+      }
+      $('h2:eq(1)').append(`전체 구입개수는 ${num}입니다.`)
+      $('ul').append(result);
+      $('li:nth-child(2n+1)').css('color','deeppink');
+      $('li:nth-child(2n)').css('color','green');
+  })
+</script>
+<body>
+  <h2>구매내역</h2>
+  <ul></ul>
+  <hr>
+  <h2></h2>
+</body>
+</html>

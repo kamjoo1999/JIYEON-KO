@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+  <title>Title</title>
+  <script>
+      let col_arr = ['red','blue','gray','orange'];
+      let index = parseInt(Math.random()*col_arr.length);
+    $(document).ready(function (){
+        $('h1').text('2초마다 색이 변경되는 박스');
+        $('#box').css('width','200px').css('height','200px');
+        setInterval(function (){
+            if((index)>col_arr.length){
+                index = parseInt(Math.random()*col_arr.length);
+            }
+            $('#box').css('background',col_arr[index++])
+        },2000)
+    })
+  </script>
+</head>
+<body>
+  <h1></h1>
+  <div id="box"></div>
+
+</body>
+</html>
