@@ -21,5 +21,5 @@ HTML을 사용해 전체적인 구조를 잡고 css를 사용하여 사용자가
    - 경기도데이터인력양성교육 프로젝트(그래프) : [범죄예방][data]
 
 [data]: https://github.com/kamjoo1999/crime_project_graph/tree/main
-[Link]: https://github.com/kamjoo1999/jiyeon/tree/TheClose
+[Link]: https://github.com/kamjoo1999/TheCloset/tree/main
 
