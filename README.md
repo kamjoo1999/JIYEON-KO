@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA07A&height=250&section=header&text=Ko%20jiyeon&fontSize=90)
 
-## 인적사항
+## 😊인적사항
    - 이름 : 고지연
    - 학번 : 20185105
    - 소속 : 
@@ -35,21 +35,21 @@
   |웹프로그래밍|3|
   |소프트웨어캡스톤디자인|3|
   
-## 참여 활동
+## 🔎참여 활동
    - 경기도 데이터 인력양성 교육
 
-## 참여 프로젝트
-   - The Closet.(프론트엔드) : [TheCloset][Link]
-   - 경기도데이터인력양성교육 프로젝트(그래프) : [범죄예방][data]
+## 👩‍💻프로젝트 경험
+   - 🔗The Closet.(프론트엔드) : [TheCloset][Link]
+      - 참여인원 : 4명
+   - 🔗경기도데이터인력양성교육 프로젝트(그래프) : [범죄예방][data]
+      - 참여인원 : 4명
 
 [data]: https://github.com/kamjoo1999/crime_project_graph/tree/main
-[Link]: https://github.com/kamjoo1999/TheCloset/tree/main
+[Link]: https://github.com/LeeGaHyeon/CapstoneDesign_TheCloset
 
-## 앞으로의 계획
+## 💡앞으로의 계획
   - 포트폴리오 준비
-     - 노마드코어, Udemy, 드림코딩 등 강의를 통한 실습
+     - 자기소개 ppt
+     - 인터넷강의를 통한 실습연습
      - 개인프로젝트 
    - 정보처리기사 자격증 준비
-
-
-
