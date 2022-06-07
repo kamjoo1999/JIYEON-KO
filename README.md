@@ -18,4 +18,5 @@ HTML을 사용해 전체적인 구조를 잡고 css를 사용하여 사용자가
 
 ## 참여 프로젝트
 The Closet. : [TheCloset][Link]
+
 [Link]:https://github.com/kamjoo1999/jiyeon/tree/TheCloset
