@@ -17,6 +17,9 @@ HTML을 사용해 전체적인 구조를 잡고 css를 사용하여 사용자가
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow.js-F7DF1E?style=for-the-badge&logo=tensorflow&logoColor=orange"> 
 
 ## 참여 프로젝트
-The Closet. : [TheCloset][Link]
+   - The Closet.(프론트엔드) : [TheCloset][Link]
+   - 경기도데이터인력양성교육 프로젝트(그래프) : [범죄예방][data]
 
+[data]: https://github.com/kamjoo1999/crime_project_graph/tree/main
 [Link]:https://github.com/kamjoo1999/jiyeon/tree/TheCloset
+
