@@ -3,9 +3,8 @@
 ## 😊인적사항
    - 이름 : 고지연
    - 학번 : 20185105
-   - 소속 : 
-     - 주전공 : 빅데이터
-     - 부전공 : 컨텐츠 it
+   - 주전공 : 빅데이터
+   - 부전공 : 컨텐츠 it
 
 ## ✏️기술스택
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow.js-F7DF1E?style=for-the-badge&logo=tensorflow&logoColor=orange"> <img src="https://img.shields.io/badge/java-276DC3?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=Rstudio&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
