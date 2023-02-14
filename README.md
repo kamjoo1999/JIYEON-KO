@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA07A&height=250&section=header&text=Ko%20jiyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA07A&height=250&section=header&text=JIYEON%20KO&fontSize=90)
 
 ## 😊인적사항
    - 이름 : 고지연
