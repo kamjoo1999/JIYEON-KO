@@ -19,6 +19,7 @@
    - 🔗경기도데이터인력양성교육 프로젝트(그래프) : [범죄예방][data]
       - 참여인원 : 4명
    - 🔗turtle-books(백엔드-상품) : [터틀북스][Link2]
+      - 참여인원 : 6명
 
 [data]: https://github.com/kamjoo1999/crime_project_graph/tree/main
 [Link]: https://github.com/LeeGaHyeon/CapstoneDesign_TheCloset
